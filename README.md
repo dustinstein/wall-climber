@@ -1,2 +1,6 @@
-# wall-climber
-A Daily Comet wall climber
+## Chrome Extension
+A Daily Comet pay wall climber
+
+### Installation
+
+Click on the 
