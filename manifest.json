@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Comet Wall Climber",
+  "version": "0.1",
+  "browser_action": {
+    "name": "Click to get remove paywall"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["https://www.dailycomet.com/*"]
+}
